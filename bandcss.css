@@ -9,8 +9,19 @@ ul {
 }
 li {
   list-style-type: none;
-  float: top;
+  float: right;
   border: 1px solid black;
+  width:33%;
+
+}
+
+.column {
+  width: 50%;
+  background-color:#94C2D1;
+  float:right;
+  opacity: 50%;
+
+
 }
 
 .titl{
@@ -22,5 +33,6 @@ li {
 .IMGT{
   border: 2px dashed black;
   padding: 20px;
+  margin: 50px;
 
 }
