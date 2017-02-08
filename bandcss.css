@@ -1,0 +1,26 @@
+.sidebar{
+  padding: 20px;
+  margin: 2px;
+
+}
+
+ul {
+  border: 1px solid purple;
+}
+li {
+  list-style-type: none;
+  float: top;
+  border: 1px solid black;
+}
+
+.titl{
+  text-decoration: underline;
+  color: blue;
+  font-size: 30px;
+
+}
+.IMGT{
+  border: 2px dashed black;
+  padding: 20px;
+
+}
